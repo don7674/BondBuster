@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<!-- http://www.resbank.co.za/economics/histdownload/histdownload.htm -->
+<Bonds>
+	<Bond>
+		<Name>Demo</Name>
+		<Principal>1000000</Principal>
+		<Term>240</Term>
+		<Start-Date>2012-01-01</Start-Date>
+		<Payment>8473.87</Payment>
+		<Instalment-Day>30</Instalment-Day>
+		<Setup-Fee>5500</Setup-Fee>
+		<Monthly-Fee>50</Monthly-Fee>
+		<Rate-Type>Prime</Rate-Type>
+		<xxRate-Type>Fixed</xxRate-Type>
+		<Rate>-0.5</Rate>
+	</Bond>
+</Bonds>
