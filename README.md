@@ -4,7 +4,7 @@ BondBuster is a Java desktop application. It allows you to monitor your mortgage
 Importantly it illustrates the substantial effect interest has on the total amount repaid.
   For example, on a 20 year mortgage you can easily be paying back double the purchase price of the house!
   
-##Features:
+## Features:
 1. Bond details, payments, and interest rates are stored in simple xml files, allowing for easy updating with your favourite editor (eg. Notepad for Windows or gedit for Linux). These files are located in the data sub-folder.
 Interest rate can be either fixed or variable (relative to prime). Interest is amortised daily based on the rate effective on each day
 
