@@ -1,5 +1,6 @@
 # BondBuster
-BondBuster is a Java desktop application. It allows you to monitor your mortgage bond in terms of balance outstanding, monthly payments, and interest paid per month or per day.
+
+BondBuster (www.bondbuster.org) is a Java desktop application. It allows you to monitor your mortgage bond in terms of balance outstanding, monthly payments, and interest paid per month or per day.
 
 Importantly it illustrates the substantial effect interest has on the total amount repaid.
   For example, on a 20 year mortgage you can easily be paying back double the purchase price of the house!
